@@ -1,0 +1,22 @@
+{
+  "name": "substrate-api-inventory",
+  "version": "0.0.1",
+  "description": "## Developement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaichaosun/substrate-api-inventory.git"
+  },
+  "author": "kaichao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaichaosun/substrate-api-inventory/issues"
+  },
+  "homepage": "https://github.com/kaichaosun/substrate-api-inventory#readme",
+  "dependencies": {
+    "@polkadot/api": "^1.18.1"
+  }
+}

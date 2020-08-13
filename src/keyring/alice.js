@@ -3,7 +3,7 @@ const { WsProvider, ApiPromise, Keyring } = require('@polkadot/api');
 
 async function main() {
     // Construct
-    const wsProvider = new WsProvider('wss://kusama-rpc.polkadot.io');
+    const wsProvider = new WsProvider('wss://cc3-5.kusama.network');
     const api = await ApiPromise.create({ provider: wsProvider });
 
     // Do something

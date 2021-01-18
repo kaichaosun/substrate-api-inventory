@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kaichaosun/substrate-api-inventory#readme",
   "dependencies": {
-    "@polkadot/api": "^1.18.1"
+    "@polkadot/api": "^3.4.2-17"
   }
 }
